@@ -1,0 +1,5 @@
+print(type(5))          
+print(type(3.14))       
+print(type("hello"))    
+print(type(30<60))   
+print(type(2+2j))  
